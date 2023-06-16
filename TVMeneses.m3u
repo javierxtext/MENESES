@@ -1,0 +1,35 @@
+#EXTM3U 
+#EXTINF:-1 ,3ABN LATINO
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
+#EXTINF:-1 ,AméricaTV
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqoFVepcQbB4xxDo2YFFTFcPBuh_1IWcIYqpH337HVMpyau7LCQb3Kx9hznjDHW4O9_dT-uvu_BrtoCrRPHOLCux8b7oJPetK3EF13l-3MmLSBneccYZViL-FgRe37vKIpZGyslekluhninYry6oOarvAw56jhzmGf45UTiJOjPxQ2pImBrzy0D4Rs2YXlb7x2pd7pgMSpvpU_QlcsV0fuO81zOO-d7fOjQOUzq6oJD-16jwpVNWlvecRxXmpza056_GOUWSgO34p-VbODrsH-7CmB7VY9n6BK_jQzipkRd8aIII_A8CdrrSPE62ud9EVCGUjybvProlyEbF1sEatO4tv9N6hDWHoZO-U49g0Qjl-FGxEIRx5W7Czxxvz3vlyNx_Hqp-wmJhr8rdjSZv0MZse81H_yhwIXXesOh4NswRdLEHtSbN9y5AEaokRSOEfyeiLaAeWLStRwCMQM2e4tOzmtfv1epv0oZpwttkRz95ImYZ98xXp8M_6zuDOZYDhEVkDFamZW5W9Fp_jNDxAvJDp5V7GwTKEReyxSEWvuonpZC62Cc-Wn6lTMf-1j_B484bvMH0JZta2ZPKZdI1IpwJHm9Z5iZTsffOTRLApHAg8jHaM3JVtuXo4F4YAYPR3tu5Vcb36c2PnE8J2BTUMWi-q5buvANxygsPLYaE1NSB7seXqO2jVIzg6RAhOQdKOFsKOFcz7VmrKcN4dvH5Im0BOgW5Gxdv2MZgpriI7vTZ6Uf8jHbmAnAoDfZV08NWgdzu1TST1ecpqWTg_8hCM0WjFOTgzOxcv1xLkno5CrFGJPBCD8-cLueXxxOJAPlMj39KtM7uF-G9o7BEL6yjTAow_yk_BvKEerWX3uDg-zjqmgXVlD7P6AKA-TvHu_jfbiUDvEw9bwXaD43QNRoMOAtp7O0SepAhSEQ9IAEqCWV1LXdlc3QtMjDpBg.m3u8
+#EXTINF:-1 ,ATV
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+#EXTINF:-1 ,ATV+
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+#EXTINF:-1 ,BethelTV
+https://d2g8t2kk3bc252.cloudfront.net/out/v1/3ad4c4b8eb8546d89205bc1fd44a7040/index.mpd
+#EXTINF:-1 ,CongresoTV
+
+#EXTINF:-1 ,ContactoTV
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 ,Enlace
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b1712000_sleng.m3u8
+#EXTINF:-1,EXITOSA
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 ,IPe
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index_3.m3u8
+#EXTINF:-1,LATINA
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
+#EXTINF:-1,PANAMERICANA
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 ,TVKids
+https://live.seo.tv.bo/live/2SEO.m3u8
+#EXTINF:-1 ,TV Perú
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
+#EXTINF:-1 ,TV Perú Internacional
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
+#EXTINF:-1 ,TV Perú Noticias
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
+#EXTINF:-1 ,Willax
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmi23eL8gbTzcPVZdU80Ic1a6tpxtPefQCAAPlXLKDsnd)/dm/3/x7x4dgx/s/live-1.m3u8
