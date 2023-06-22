@@ -8,7 +8,7 @@ https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
 #EXTINF:-1 ,BethelTV
 https://d2g8t2kk3bc252.cloudfront.net/out/v1/3ad4c4b8eb8546d89205bc1fd44a7040/index.mpd
 #EXTINF:-1 ,CongresoTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1686959909/ei/xKKMZPSzOoyM-LAP4YCD0AU/ip/190.108.85.26/id/0xtNNG9Dq08.1/source/yt_live_broadcast/requiressl/yes/tx/24691743/txs/24691743%2C24691744%2C24691745%2C24691746/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7Bx-1iOU-z-b2MTIlWpdqn9vxWyjAvd8Px8mu-w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEO0jd5FgWJ06H4eEaV_9bJWyQJHX-eupQzWUho2WgWcCIHa59OPB7SoejMMKucmS2o_CAs-0g10A_AwTxYYCg2fc/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687481365/ei/tZeUZLy5MNuCkAO2yJbwDg/ip/190.108.85.26/id/0xtNNG9Dq08.1/source/yt_live_broadcast/requiressl/yes/tx/24554066/txs/24554063%2C24554064%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7B33YSAj_u2gYxJM1lGFko0vbpmb5lTY95j3uxQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKydbVm0YKsfqTwRZTgyj0rn2PFu-iUFUqvmqH9Miu7vAiEAszXOp031oJvsznFXm8Mgtnn-pULkSjTKM6sb4tp1wl8%3D/file/index.m3u8
 #EXTINF:-1 ,ContactoTV
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 ,Enlace
