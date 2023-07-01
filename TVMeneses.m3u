@@ -2,9 +2,9 @@
 #EXTINF:-1 ,3ABN LATINO
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
 #EXTINF:-1 ,ATV
-https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_240.m3u8
 #EXTINF:-1 ,ATV+
-https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_240.m3u8
 #EXTINF:-1 ,BethelTV
 https://d2g8t2kk3bc252.cloudfront.net/out/v1/3ad4c4b8eb8546d89205bc1fd44a7040/index.mpd
 #EXTINF:-1 ,CongresoTV
