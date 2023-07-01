@@ -9,16 +9,12 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv_240.m3u8
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
 #EXTINF:-1 ,BethelTV
 https://d2g8t2kk3bc252.cloudfront.net/out/v1/3ad4c4b8eb8546d89205bc1fd44a7040/index.mpd
-#EXTINF:-1 ,CongresoTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687481365/ei/tZeUZLy5MNuCkAO2yJbwDg/ip/190.108.85.26/id/0xtNNG9Dq08.1/source/yt_live_broadcast/requiressl/yes/tx/24554066/txs/24554063%2C24554064%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qEK7B33YSAj_u2gYxJM1lGFko0vbpmb5lTY95j3uxQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKydbVm0YKsfqTwRZTgyj0rn2PFu-iUFUqvmqH9Miu7vAiEAszXOp031oJvsznFXm8Mgtnn-pULkSjTKM6sb4tp1wl8%3D/file/index.m3u8
 #EXTINF:-1 ,ContactoTV
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 ,Enlace
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b1712000_sleng.m3u8
 #EXTINF:-1,EXITOSA
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
-#EXTINF:-1 ,IPe
-https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index_3.m3u8
 #EXTINF:-1,LATINA
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 #EXTINF:-1,PANAMERICANA
@@ -32,7 +28,7 @@ https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/ind
 #EXTINF:-1 ,TV Perú Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
 #EXTINF:-1 ,Willax
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmq7iyna98N4k_M3njSBEh0Ml2L40_20WG8g3_Rf1YvAh)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuqKUP4WR7XpV8o4s06o2mn3wcoi81uRw8MpWpdIPdti)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 ,A3Cine (1080p)
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 ,Cine Sony (720p)
