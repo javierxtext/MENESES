@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 ,3ABN LATINO
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
+#EXTINF:-1 ,AmericaTV
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8
 #EXTINF:-1 ,ATV
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv_240.m3u8
 #EXTINF:-1 ,ATV+
