@@ -9,12 +9,14 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 #EXTINF:-1 ,BethelTV
 https://d1h3uwvc88ypd2.cloudfront.net/out/v1/4331f5126d944a21b7be0a5068cce910/index.mpd
+#EXTINF:-1 ,Canal N
+http://oaktvpro.club:8080/live/Lalo2023/Lalo2023R/3409.m3u8
 #EXTINF:-1 ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
 #EXTINF:-1,EXITOSA
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w332038162.m3u8
 #EXTINF:-1,LATINA
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b1335646740786595f03450809&ndvc=0&sid=ba5t1l1xb49322758106595f8b513329
 #EXTINF:-1,PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 ,PlanetaTV (720p)
