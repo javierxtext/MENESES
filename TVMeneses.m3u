@@ -10,7 +10,7 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 ,BethelTV
 https://d1h3uwvc88ypd2.cloudfront.net/out/v1/4331f5126d944a21b7be0a5068cce910/index.mpd
 #EXTINF:-1 ,Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 #EXTINF:-1,EXITOSA
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w332038162.m3u8
 #EXTINF:-1,LATINA
@@ -26,17 +26,11 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 ,TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 ,Willax
-https://live-b.cf.dmcdn.net/sec2(l9pwg0HcXNOhGDdNY_63q4s9UeBv9axHfw429zzk192w2czfrkE1sj1d5D_JUcxEcE8UPI_svzxyI7hmPQ9dmPRsLbIf3aK0r6w1tu7R02c)/dm/3/x7x4dgx/s/live-1.m3u8
-#EXTINF:-1 ,CartoonNetwork
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrUFer7Nnk_8tjKSGz6U3NQOild9a20Fgb4MxNrLrk7_om-FuZnS1s2XSAecwIaAajcDZ7OgbO1G9sWOetc55r7IWBOlujyvk_Tl1URvI4mjK8c9ejcSHGVKh9oWhvLqufD9a9jLLMlfNl6W1H2a1hJv-i6LdcMh1NmNGbOLCPoZ4yAfKp8rJZjLJ_yAlgSzFGg3mJu__gt4TBClbiyPr8aMfIYXtes4i_S8r5p8sDMpbxHdAD9OqnB0ZOtwa0ARAWlJC8angfo6YWwo94_KtsU2Owlg42c_Vr0sPJqP4myjaCGkCzzuCRmVmZQnrSNgxJuOOtorJGwLgKDyxiM2fCNoRl-gUDA8vvW2ji7hIYiqstWF5znMuy825ZDgHdL6aCGSCuuK9J6XJ_ZTLa7QrOcTV1VfFxrA_5a0CLmFRyGLWF4z9gHJCAb0zeTgftYu039Upx1mC1SoKK6cyOuQwgsEBIYOwBbEiFJf6k8ACAv1D5SvGu7WxcsmanjRLhDP_OfrBiAk_ZUwqjNW6QXIXOEyt2i5cg0stq2y5hciezFLZ_hY5alYLizC0Y_ju45MarHfFHErzZqyZRO0y2mRd0qmJMoYXZ7JxCizN9QhFN6M_Bcg4UCQRswRtkJ1WXdskULg3dWdsz9K87VrhSH84eadqpN98BBR6Wqpg4GCHPfukOSuBMrxpab5exF1PHuiuUHoIB8aw0OkdYDAcNDtqIrriQryqMqQ8edOC_gwHw6oAXj1-YL17XivKCbxwQaJi_ZZYtCZ5nzDZvUZ1leIx16KHgTr1boKzGfm8TL3r74sYdCj3km3Dqjj7GWB7W16JXDB_OzZHRRLVP9fWbT6zui6iwpvNKsdqNHNuU6SqleVl4qHOqU_gmAcjxbYYOsNQkvCIfzDFZlQq75V4Y5T1b552bDC4bBuGgzX1sbsBT55RszvXQogASoJdXMtZWFzdC0xMLsH.m3u8
-#EXTINF:-1 ,PlanetaTV Music (720p)
-https://scl.edge.grupoz.cl/music/live/music.m3u8
+https://live-b.cf.dmcdn.net/sec2(mEPye6LOjdkyj7TFeGAvrz6DQovKXbgq-YGlEmLC8P53zMfllmJLNW7iipOVmfBpDt5TjgkKoJj4GM5dj29a47EY9RGTxGmHZOQ1A0r28M0)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 ,Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 ,MyTimeMovieNetwork (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,PlanetaTV Movie (720p)
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 ,Rakuten Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Rakuten Comedy Movies
