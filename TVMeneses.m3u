@@ -1,12 +1,12 @@
 #EXTM3U 
 #EXTINF:-1 ,3ABN LATINO
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w225650578_b1128000_slen.m3u8
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w405090583_b1428000_slen.m3u8
 #EXTINF:-1 ,ATV
 https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/chunks.m3u8
 #EXTINF:-1 ,ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 ,ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
+https://d3r5ioyjqcy69v.cloudfront.net/live2/alba-pe-atv-atvsur_720p/chunks.m3u8
 #EXTINF:-1 ,BethelTV
 https://d1h3uwvc88ypd2.cloudfront.net/out/v1/4331f5126d944a21b7be0a5068cce910/index.mpd
 #EXTINF:-1 ,Enlace
@@ -26,7 +26,7 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 ,TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 ,Willax
-https://live-c.cf.dmcdn.net/sec2(vWcUgXIep1hqMiK03iJwXPxySMTd5DTFqxCFWT3H946Ewy8Q4dcTIUMe8ClOFfK59aHJfJ4mxCbk28kfzwRuciOdCcAq6CpNAhreDq_rGjs)/dm/3/x7x4dgx/s/live-480.m3u8
+https://live-c.cf.dmcdn.net/sec2(A9bTXtUv9xrdA6fkOFglWNvtx-t_ahvIVvdGkNRErmTI-bTWvpHlVxl-TmV4ScBLFGsiM7ABXMrGWXskaUXAmxXRihxj__hPq-9jTIctcPA)/dm/3/x7x4dgx/s/live-480.m3u8
 #EXTINF:-1 ,Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 ,MyTimeMovieNetwork (1080p)
