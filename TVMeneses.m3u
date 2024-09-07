@@ -2,7 +2,7 @@
 #EXTINF:-1 ,3ABN LATINO
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w225650578_b1128000_slen.m3u8
 #EXTINF:-1 ,ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/480p.m3u8
+https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/chunks.m3u8
 #EXTINF:-1 ,ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 ,ATV Sur
