@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 ,3ABN LATINO
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w1813311393_b1128000_slen.m3u8?nimblesessionid=91414052
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w89097716_b1128000_slen.m3u8?nimblesessionid=91803159
 #EXTINF:-1 ,AméricaTV
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 ,ATV
@@ -12,7 +12,7 @@ https://d3r5ioyjqcy69v.cloudfront.net/live2/alba-pe-atv-atvsur_720p/chunks.m3u8
 #EXTINF:-1 ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 #EXTINF:-1,EXITOSA
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-v1/index.fmp4.m3u8
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1,LATINA
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b1335646740786595f03450809&ndvc=0&sid=ba5t1l1xb49322758106595f8b513329
 #EXTINF:-1,PANAMERICANA
@@ -26,4 +26,4 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 ,TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 ,Willax
-https://live-b.cf.dmcdn.net/sec2(qCdXF4dGnVIaM3FW4C-wKp0JqHt6cLxuzpMCOwYxD5_EhbkP3jfjM3-t4sVAJX9nHsIDgf_AhuKVCrYwbbUW7N2QOBuvff9-QtvShqCA0TnTBnST8h4_h9FU72S-Gei5)/dm/3/x7x4dgx/s/live-480.m3u8
+https://live-b.cf.dmcdn.net/sec2(K9DxcPCOv0h3Ph_E7z1U8s2Fz7_X3kEUTWp5mI21dNOz65tX0AVKFxhisRUiuD1q5wpDpnAYk9gxbekRO77rj_8QSGFGY3ZHstoMAKLTfL244y6bM1_8oalYLeevlb5O)/dm/3/x7x4dgx/s/live-480.m3u8
